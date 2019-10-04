@@ -1,0 +1,65 @@
+h1 {
+	font-family: Courier New;
+	background-color: #C8F1FF;
+	font-size: 60px;
+	width: 100%;
+	height: 100px;
+	position:relative;
+	padding-top: 40px;
+	margin: 0 auto;
+}
+h2 {
+	position:relative;
+	width: 100%;
+	margin:0 auto;
+	background-color:#235D96;
+	font-family: Courier New;
+	text-align: center;
+	overflow: stack;
+}
+table {
+	border: 3px solid #000000;
+	display: inline-block;
+	margin: 50px;
+	padding: 125px;
+	top: 80px;
+	color: white;
+	font-size: 30px;
+	font-family: cursive;
+}
+.text{
+	background-color: black;
+}
+.English {
+	background-image: url("https://buddhify.com/wp-content/uploads/2018/07/iStock-689785084.jpg");
+	background-size: cover;
+	background-position:center;
+	cursor: grab;
+}
+.Algebra {
+	background-image: url("https://magoosh.com/hs/files/2016/02/algegra-600x400.jpg");
+	background-size: 100&;
+	cursor: grab;
+}
+.History {
+	background-image: url("https://cdn.europosters.eu/image/750/posters/world-map-antique-style-i14009.jpg");
+	background-size: cover;
+	background-position:center;
+	padding-left: 90px;
+	padding-right: 90px;
+	cursor: grab;
+}
+.Chemistry {
+	background-image: url("https://cdn.mos.cms.futurecdn.net/PLcixwv9qrPXCp99jdzw57-320-80.jpg");
+	background-size: cover;
+	background-position:center;
+	cursor: grab;
+}
+.Graphic {
+	background-image: url("https://shelbycountyartscouncil.com/wp-content/uploads/2017/09/pexels-photo-226243.jpeg");
+	background-size: cover;
+	background-position:center;
+	cursor: grab;
+}
+a:visited {
+  color: white;

@@ -1,0 +1,53 @@
+h1 {
+	font-family: Courier New;
+	background-color: #C8F1FF;
+	font-size: 60px;
+	width: 100%;
+	height: 100px;
+	position:relative;
+	padding-top: 40px;
+	margin: 0 auto;
+	text-align: center;
+}
+h2 {
+	position:relative;
+	width: 100%;
+	margin:0 auto;
+	background-color:#235D96;
+	font-family: Courier New;
+	text-align: center;
+	overflow: stack;
+}
+h3{
+	font-family: Courier New;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+img{
+	width: 300px;
+	height: 350px;
+	padding-top: 20px;
+}
+.HODVC{
+	font-family: Courier New;
+	font-size: 18px;
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+p {
+	text-align: center;
+	font-family: Courier New;
+	font-size: 15px;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+.Reflection {
+	text-align: center;
+	font-family: Courier New;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-top: 50px;
+}

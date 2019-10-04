@@ -1,0 +1,60 @@
+h1 {
+	font-family: Courier New;
+	background-color: #C8F1FF;
+	font-size: 60px;
+	width: 100%;
+	height: 100px;
+	position:relative;
+	padding-top: 40px;
+	margin: 0 auto;
+	text-align: center;
+}
+h2 {
+	position:relative;
+	width: 100%;
+	margin:0 auto;
+	background-color:#235D96;
+	font-family: Courier New;
+	text-align: center;
+	overflow: stack;
+}
+h3{
+	font-family: Courier New;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+table{
+	text-align: center;
+	font-family: Courier New;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	font-weight: bold;
+}
+img{
+	width: 600px;
+	height: 300px;
+}
+p{
+	font-family: Courier New;
+	text-align: center;
+	margin-top: 50px;
+	font-weight: bold;
+}
+p {
+	text-align: center;
+	font-family: Courier New;
+	font-size: 15px;
+	margin-left: 250px;
+	margin-right: 250px;
+	margin-top: 0px;
+}
+.Reflection {
+	text-align: center;
+	font-family: Courier New;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-top:50px;
+}
